@@ -1,0 +1,2 @@
+# my-sauna
+a phrasebook in uralic languages
